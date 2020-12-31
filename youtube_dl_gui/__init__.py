@@ -81,14 +81,16 @@ locale = {
     'ar_SA': wx.LANGUAGE_ARABIC,
     'cs_CZ': wx.LANGUAGE_CZECH,
     'en_US': wx.LANGUAGE_ENGLISH_US,
-    'fr_FR': wx.LANGUAGE_FRENCH,
     'es_CU': wx.LANGUAGE_SPANISH,
+    'es_ES': wx.LANGUAGE_SPANISH,
+    'fr_FR': wx.LANGUAGE_FRENCH,
     'it_IT': wx.LANGUAGE_ITALIAN,
     'ja_JP': wx.LANGUAGE_JAPANESE,
     'ko_KR': wx.LANGUAGE_KOREAN,
     'pt_BR': wx.LANGUAGE_PORTUGUESE_BRAZILIAN,
     'ru_RU': wx.LANGUAGE_RUSSIAN,
-    'es_ES': wx.LANGUAGE_SPANISH
+    'zh_CN': wx.LANGUAGE_CHINESE_SIMPLIFIED,
+    'zh_TW': wx.LANGUAGE_CHINESE_TRADITIONAL
 }
 
 from .mainframe import MainFrame
